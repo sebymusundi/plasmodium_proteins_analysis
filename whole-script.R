@@ -53,7 +53,7 @@ protein_families$GeneID.and.Domain <- make.names(protein_families$GeneID.and.Dom
 
 protein_families <- as.data.frame(protein_families)
 
-########################################################################
+###############################################################################
 # Determining seroprevalance based on protein family 
 ################################################################################
 
